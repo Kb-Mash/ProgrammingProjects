@@ -1,2 +1,2 @@
 # ProgrammingProjects
-Projects that progressively build my skills
+Python projects that progressively build my skills
